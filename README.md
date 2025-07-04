@@ -1,1 +1,2 @@
-# W2-Project
+# Charity: water website
+Landing page for charity: water
